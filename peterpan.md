@@ -50,8 +50,10 @@ Nothing really matters, anyone can see
 Nothing really matters
 Nothing really matters to me
 Any way the wind blows
+<<<<<<< HEAD
+=======
 
-DONT STOP ME NOW
+##Don't stop me now
 
 
 Tonight I'm gonna have myself a real good time
@@ -216,4 +218,3 @@ La la la la laaaa
 La la la la
 La la laa laa laa laaa
 La la laa la la la la la laaa hey!!....
-
