@@ -50,6 +50,8 @@ Nothing really matters, anyone can see
 Nothing really matters
 Nothing really matters to me
 Any way the wind blows
+<<<<<<< HEAD
+=======
 
 ##Don't stop me now
 
